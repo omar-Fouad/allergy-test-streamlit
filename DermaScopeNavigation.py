@@ -370,7 +370,7 @@ elif current == "Record and Analyze Results":
 
     # Instructions
     st.write("### 1. Avoid smearing of test allergens to adjacent test sites.")
-    st.write("### 2. Wait 15 minutes with a progress bar timer.")
+    st.write("### 2. Wait 15 minutes.")
 
     # Progress bar timer
     progress_bar = st.progress(0)
